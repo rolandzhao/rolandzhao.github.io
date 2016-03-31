@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>des</key>
+		<string>你追我</string>
+		<key>name</key>
+		<string>hei_00</string>
+	</dict>
+	<dict>
+		<key>des</key>
+		<string>如果你</string>
+		<key>name</key>
+		<string>hei_01</string>
+	</dict>
+	<dict>
+		<key>des</key>
+		<string>追上我</string>
+		<key>name</key>
+		<string>hei_02</string>
+	</dict>
+	<dict>
+		<key>des</key>
+		<string>我就</string>
+		<key>name</key>
+		<string>hei_03</string>
+	</dict>
+	<dict>
+		<key>des</key>
+		<string>让你</string>
+		<key>name</key>
+		<string>hei_04</string>
+	</dict>
+	<dict>
+		<key>des</key>
+		<string>hhh</string>
+		<key>name</key>
+		<string>hei_05</string>
+	</dict>
+</array>
+</plist>
